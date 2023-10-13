@@ -1,0 +1,53 @@
+.intro {
+    color:aquamarine;
+}
+
+.intro-title {
+    font-style: italic;
+}
+
+.phone {
+    color:peru;
+}
+
+.email {
+    color:greenyellow;
+}
+
+.edu {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.edu-intro {
+    font-style: italic;
+}
+
+.edutype {
+    color:blueviolet;
+}
+
+.projects {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.proj {
+    color:hotpink;
+}
+
+.skillstyle {
+    color:grey;
+}
+
+.listskills {
+    color:orange;
+    font-style: oblique;
+}
+
+.langg {
+    color:red;
+    font-style: italic;
+}
+
+.stylang {
+    color:darkgoldenrod;
+}
